@@ -17,7 +17,7 @@
   <img align="center" alt="Kay-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Kay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Kay-img"-pic" height="150" style="border-radius:50%px;" src="https://media.discordapp.net/attachments/1002988121077596262/1038797711002042439/87df9eca142c548482c1c3d183f66dae.webp">
+  <img align="right" alt="Kay-img"-pic" height="150" style="border-radius:50%px;" src="https://cdn.discordapp.com/avatars/830201994563551232/fc83ea1bf427482c682891462ea9d52f.webp?size=512">
 </div>
 
 ##
