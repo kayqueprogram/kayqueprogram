@@ -40,8 +40,10 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Kay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="kay-Ts" height="30" width="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+  <img align="center" alt="Kay-Vite" height="30" width="40" src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vite.svg">
   <img align="center" alt="Kay-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Kay-Fire" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+  <img align="center" alt="Kay-Node" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg">
   <img align="center" alt="Kay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Kay-img"-pic" height="150" style="border-radius:50%px;" src="https://cdn.discordapp.com/avatars/830201994563551232/28307d704525866168c2c9048a6ba270.webp?size=512">
