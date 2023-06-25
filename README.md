@@ -26,7 +26,7 @@
 + ### Databases:
 + + Firebase;
     
-+ ### SOs:
++ ### OS:
 + + Linux
 + + Windows
 <br>
