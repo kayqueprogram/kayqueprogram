@@ -46,7 +46,7 @@
   <img align="center" alt="Kay-Node" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg">
   <img align="center" alt="Kay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Kay-img"-pic" height="150" style="border-radius:50%px;" src="https://cdn.discordapp.com/avatars/830201994563551232/28307d704525866168c2c9048a6ba270.webp?size=512">
+  <img align="right" alt="Kay-img"-pic" height="150" style="border-radius:50%;" src="https://cdn.discordapp.com/avatars/830201994563551232/28307d704525866168c2c9048a6ba270.webp?size=512">
 </div>
 
 ##
