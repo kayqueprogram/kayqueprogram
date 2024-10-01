@@ -1,4 +1,4 @@
-<img align="right" alt="" height="300px" src="./kay.jpg">
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Kayque+de+Jesus+!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
@@ -37,6 +37,35 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
 </div>
 
+### Experiência de trabalho
+
+Na visão geral abaixo você encontrará minhas experiências de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Abba Logistics" src="https://firebasestorage.googleapis.com/v0/b/arquivos-c91bb.appspot.com/o/Captura%20de%20tela%202024-10-01%20155424.png?alt=media&token=66269f85-80c5-4270-92a9-5c87b920813c"/>](https://abbalogistics.com.br/)
+
+**Web Developer** \
+[**Abba Logistics**](https://abbalogistics.com.br/) • Full-time \
+Linguagens & Tecnologias: `Typescript`, `Next`, `Tailwind Css`,\
+Projeto em destaque: [Website](https://abbalogistics.com.br/)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Microcamp" src="https://firebasestorage.googleapis.com/v0/b/arquivos-c91bb.appspot.com/o/nqUOEm.jpg?alt=media&token=7c52bf5b-a588-4241-ae0b-64a47a752ba8"/>](https://rocketseat.com.br/)
+
+**IT Teacher** \
+[**Microcamp**](https://microcamp.com.br/) • Contract \
+Linguagens & Tecnologias: `JavaScript`, `HTML5`, `CSS3`, `Python`, `Pacote Office`, `Pacote Adobe`
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="MIcrocamp" src="https://firebasestorage.googleapis.com/v0/b/arquivos-c91bb.appspot.com/o/images.jpg?alt=media&token=a57c37e5-ec6f-431c-b943-4ab9006d1e4f"/>](https://microcamp.com.br/)
+
+**Hardware Teacher** \
+[**Microcamp**](https://microcamp.com.br//) • Contract \
+
+<br/>
+<br/>
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/kayque-de-jesus-4008312b2/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 <h3>GitHub Stats</h3>
 
