@@ -48,6 +48,7 @@ Na visão geral abaixo você encontrará minhas experiências de trabalho mais r
 Linguagens & Tecnologias: `Typescript`, `Next`, `Tailwind Css`,\
 Projeto em destaque: [Website](https://abbalogistics.com.br/)
 <br/>
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="Microcamp" src="https://firebasestorage.googleapis.com/v0/b/arquivos-c91bb.appspot.com/o/nqUOEm.jpg?alt=media&token=7c52bf5b-a588-4241-ae0b-64a47a752ba8"/>](https://rocketseat.com.br/)
 
@@ -56,14 +57,26 @@ Projeto em destaque: [Website](https://abbalogistics.com.br/)
 Linguagens & Tecnologias: `JavaScript`, `HTML5`, `CSS3`, `Python`, `Pacote Office`, `Pacote Adobe`
 <br/>
 <br/>
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="MIcrocamp" src="https://firebasestorage.googleapis.com/v0/b/arquivos-c91bb.appspot.com/o/images.jpg?alt=media&token=a57c37e5-ec6f-431c-b943-4ab9006d1e4f"/>](https://microcamp.com.br/)
 
 **Hardware Teacher** \
-[**Microcamp**](https://microcamp.com.br//) • Contract \
+[**Microcamp**](https://microcamp.com.br//) • Contract 
 
 <br/>
 <br/>
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="MIcrocamp" src="https://firebasestorage.googleapis.com/v0/b/portfolio-9105a.appspot.com/o/Sem%20T%C3%ADtulo-1.png?alt=media&token=5e2e8dda-fdbb-45d1-907e-00982c6c4985"/>](https://microcamp.com.br/)
+
+**IT Technician** \
+[**Nobre Distribuidora**](https://www.instagram.com/nobre.importadora/) • Contract 
+
+<br/>
+<br/>
+
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/kayque-de-jesus-4008312b2/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
