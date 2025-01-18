@@ -62,8 +62,8 @@ Linguagens & Tecnologias: `JavaScript`, `HTML5`, `CSS3`, `Python`, `Pacote Offic
 [<img align="left" height="94px" width="94px" alt="MIcrocamp" src="https://firebasestorage.googleapis.com/v0/b/arquivos-c91bb.appspot.com/o/images.jpg?alt=media&token=a57c37e5-ec6f-431c-b943-4ab9006d1e4f"/>](https://microcamp.com.br/)
 
 **Hardware Teacher** \
-[**Microcamp**](https://microcamp.com.br//) • Contract 
-
+[**Microcamp**](https://microcamp.com.br//) • Contract \
+Competências: `Manutenção de computador`, `Limpeza de computador`, `Montagem de computador`,  `Assistência Técnica`, `Windows Server`
 <br/>
 <br/>
 <br/>
@@ -72,11 +72,12 @@ Linguagens & Tecnologias: `JavaScript`, `HTML5`, `CSS3`, `Python`, `Pacote Offic
 [<img align="left" height="94px" width="94px" alt="MIcrocamp" src="https://firebasestorage.googleapis.com/v0/b/portfolio-9105a.appspot.com/o/Sem%20T%C3%ADtulo-1.png?alt=media&token=5e2e8dda-fdbb-45d1-907e-00982c6c4985"/>](https://microcamp.com.br/)
 
 **IT Technician** \
-[**Nobre Distribuidora**](https://www.instagram.com/nobre.importadora/) • Contract 
-
+[**Nobre Distribuidora**](https://www.instagram.com/nobre.importadora/) • Contract \
+Competências: `Manutenção de computador`, `Limpeza de computador`, `Montagem de computador`,  `Assistência Técnica`
 <br/>
 <br/>
-
+<br/>
+<br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/kayque-de-jesus-4008312b2/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
