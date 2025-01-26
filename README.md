@@ -43,7 +43,7 @@ Na visão geral abaixo você encontrará minhas experiências de trabalho mais r
 
 [<img align="left" height="94px" width="94px" alt="Abba Logistics" src="https://firebasestorage.googleapis.com/v0/b/arquivos-c91bb.appspot.com/o/Captura%20de%20tela%202024-10-01%20155424.png?alt=media&token=66269f85-80c5-4270-92a9-5c87b920813c"/>](https://abbalogistics.com.br/)
 
-**Web Developer** \
+**Full Stack Developer** \
 [**Abba Logistics**](https://abbalogistics.com.br/) • Full-time \
 Linguagens & Tecnologias: `Typescript`, `Next`, `Tailwind Css`,\
 Projeto em destaque: [Website](https://abbalogistics.com.br/)
