@@ -4,7 +4,7 @@
 
 
 
-<p align="left">Atualmente sou estudante de Programação e Desenvolvimento de Sistemas. Possuo várias formações na área da tecnologia e já estou a cerca de 3 anos no campo tecnológico. As linguagens de programação que mais gosto de trabalhar, são Javascript e Python. Estou sempre estudando e me atualizando na área tecnológica, pois adoro compartilhar e pôr meus conhecimentos em prática para criar soluções inovadoras! Hoje, trabalho como Instrutor de Informática, uma profissão que me auxiliou e muito a melhorar minha comunicação!
+<p align="left">Atualmente sou estudante de Programação e Desenvolvimento de Sistemas. Possuo várias formações na área da tecnologia e já estou a cerca de 4 anos no campo tecnológico. As linguagens de programação que mais gosto de trabalhar, são Javascript e Python. Estou sempre estudando e me atualizando na área tecnológica, pois adoro compartilhar e pôr meus conhecimentos em prática para criar soluções inovadoras! Hoje, trabalho como Instrutor de Informática, uma profissão que me auxiliou e muito a melhorar minha comunicação!
 
 
 <h3 align="left">Connect with me!</h3>
