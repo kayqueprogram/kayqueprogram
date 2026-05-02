@@ -8,9 +8,9 @@
   <b>`フルスタック開発者`</b>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4FF&center=true&v=2&width=435&lines=Desenvolvedor+Full+Stack;Instrutor+de+Informática;Analista+de+Sistemas!" alt="Typing SVG"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=00B4FF&lines=Desenvolvedor+Full+Stack;Instrutor+de+Informatica;Analista+de+Sistemas" />
+</p>
 
 <br>
 
