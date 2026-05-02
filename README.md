@@ -9,12 +9,12 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=00B4FF&width=900&size=22&center=true&lines=Desenvolvedor+Full+Stack;Instrutor+de+Informática;Analista+de+Sistemas;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4FF&center=true&v=2&width=435&lines=Desenvolvedor+Full+Stack;Instrutor+de+Informática;Analista+de+Sistemas!" alt="Typing SVG"/>
 </div>
 
 <br>
 
-## Social 
+## Social  
 
 Siga-me nas redes sociais para acompanhar meus projetos e conteúdos sobre tecnologia:
 
