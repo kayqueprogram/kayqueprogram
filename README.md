@@ -1,93 +1,87 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=00B4FF&section=header&v=2"/>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Kayque+de+Jesus+!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
-
-
-
-<p align="left">Atualmente sou estudante de Programação e Desenvolvimento de Sistemas. Possuo várias formações na área da tecnologia e já estou a cerca de 4 anos no campo tecnológico. As linguagens de programação que mais gosto de trabalhar, são Javascript e Python. Estou sempre estudando e me atualizando na área tecnológica, pois adoro compartilhar e pôr meus conhecimentos em prática para criar soluções inovadoras! Hoje, trabalho como Instrutor de Informática, uma profissão que me auxiliou e muito a melhorar minha comunicação!
-
-
-<h3 align="left">Connect with me!</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:kayquedejesusdossantos@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/kayque-de-jesus-4008312b2/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/kayque.prof/)
-
-<h3 align="left">My Stack</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
-  
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1416504835221754020/1500254849772556419/content.png?ex=69f7c4b5&is=69f67335&hm=90a8cd2824960e82cd7eed0d898c631253a477329d96d7195277f79e91595dbf&" width="100%" />
 </div>
 
-### Experiência de trabalho
+<div align="center">
+  <b>`フルスタック開発者`</b>
+</div>
 
-Na visão geral abaixo você encontrará minhas experiências de trabalho mais recente:
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=00B4FF&width=900&size=22&center=true&lines=Desenvolvedor+Full+Stack;Instrutor+de+Informática;Analista+de+Sistemas!;" alt="Typing SVG"/>
+</div>
 
-[<img align="left" height="94px" width="94px" alt="Abba Logistics" src="https://firebasestorage.googleapis.com/v0/b/arquivos-c91bb.appspot.com/o/Captura%20de%20tela%202024-10-01%20155424.png?alt=media&token=66269f85-80c5-4270-92a9-5c87b920813c"/>](https://abbalogistics.com.br/)
+<br>
 
-**Full Stack Developer** \
-[**Abba Logistics**](https://abbalogistics.com.br/) • Full-time \
-Linguagens & Tecnologias: `Typescript`, `Next`, `Tailwind Css`,\
-Projeto em destaque: [Website](https://abbalogistics.com.br/)
-<br/>
-<br/>
+## Social 
 
-[<img align="left" height="94px" width="94px" alt="Microcamp" src="https://firebasestorage.googleapis.com/v0/b/arquivos-c91bb.appspot.com/o/nqUOEm.jpg?alt=media&token=7c52bf5b-a588-4241-ae0b-64a47a752ba8"/>](https://rocketseat.com.br/)
+Siga-me nas redes sociais para acompanhar meus projetos e conteúdos sobre tecnologia:
 
-**IT Teacher** \
-[**Microcamp**](https://microcamp.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `HTML5`, `CSS3`, `Python`, `Pacote Office`, `Pacote Adobe`
-<br/>
-<br/>
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayque-de-jesus-4008312b2/)
+[![Instagram](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kayque.prof/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kayquedejesusdossantos@gmail.com)
 
-[<img align="left" height="94px" width="94px" alt="MIcrocamp" src="https://firebasestorage.googleapis.com/v0/b/arquivos-c91bb.appspot.com/o/images.jpg?alt=media&token=a57c37e5-ec6f-431c-b943-4ab9006d1e4f"/>](https://microcamp.com.br/)
+## Sobre Mim
 
-**Hardware Teacher** \
-[**Microcamp**](https://microcamp.com.br//) • Contract \
-Competências: `Manutenção de computador`, `Limpeza de computador`, `Montagem de computador`,  `Assistência Técnica`, `Windows Server`
-<br/>
-<br/>
-<br/>
-<br/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador Ilustração">
 
-[<img align="left" height="94px" width="94px" alt="MIcrocamp" src="https://firebasestorage.googleapis.com/v0/b/portfolio-9105a.appspot.com/o/Sem%20T%C3%ADtulo-1.png?alt=media&token=5e2e8dda-fdbb-45d1-907e-00982c6c4985"/>](https://microcamp.com.br/)
+Atualmente atuo como **Analista de Sistemas**, sendo responsável pelo desenvolvimento completo de aplicações **(Full Stack)** e pela **implantação de sistemas**, garantindo performance, escalabilidade e estabilidade em ambientes reais.
 
-**IT Technician** \
-[**Nobre Distribuidora**](https://www.instagram.com/nobre.importadora/) • Contract \
-Competências: `Manutenção de computador`, `Limpeza de computador`, `Montagem de computador`,  `Assistência Técnica`
-<br/>
-<br/>
-<br/>
-<br/>
+Tenho cerca de 4 anos de experiência na área de tecnologia, com foco na criação de soluções práticas e eficientes. Possuo versatilidade para trabalhar com diferentes linguagens e tecnologias, adaptando-me conforme a necessidade de cada projeto, atuando tanto no backend quanto no frontend.
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/kayque-de-jesus-4008312b2/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
-<h3>GitHub Stats</h3>
+Estou me especializando em **Cibersegurança**, aprofundando meus conhecimentos em proteção de sistemas, análise de vulnerabilidades, Pentesting e boas práticas de segurança.
 
+<br>
+<br>
+<br>
+
+
+## My Skills
+
+#### Main Stack:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=kayqueprogram&rank_icon=github&show_icons=true&theme=tokyonight&count_private=true"> 
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=kayqueprogram&layout=compact&theme=tokyonight&count_private=true">
+  <img align="center" alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kayqueprogram&theme=tokyonight&v=1"/>
+</div>
 
 <br>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kayqueprogram/kayqueprogram/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kayqueprogram/kayqueprogram/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kayqueprogram/kayqueprogram/output/github-contribution-grid-snake.svg">
-</picture>
-<br><br>
+<br>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kayqueprogram/kayqueprogram/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kayqueprogram/kayqueprogram/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kayqueprogram/kayqueprogram/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
+<br>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kayqueprogram&color=00B4FF&style=for-the-badge&logo=github" alt="Visitor Count" />
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=00B4FF&section=footer&v=2"/>
