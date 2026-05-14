@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=00B4FF&section=header&v=2"/>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1416504835221754020/1500254849772556419/content.png?ex=69f7c4b5&is=69f67335&hm=90a8cd2824960e82cd7eed0d898c631253a477329d96d7195277f79e91595dbf&" width="100%" />
+  <img src="frontier-kayque.png" width="98%" />
 </div>
 
 <div align="center">
