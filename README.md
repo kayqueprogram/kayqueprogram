@@ -26,7 +26,7 @@ Siga-me nas redes sociais para acompanhar meus projetos e conteúdos sobre tecno
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador Ilustração">
 
-Atualmente atuo como **Analista de Sistemas**, sendo responsável pelo desenvolvimento completo de aplicações **(Full Stack)** e pela **implantação de sistemas**, garantindo performance, escalabilidade e estabilidade em ambientes reais.
+Atualmente atuo como **Desenvolvedor FullStack**, sendo responsável pelo desenvolvimento completo de aplicações **(Full Stack)** e pela **implantação de sistemas**, garantindo performance, escalabilidade e estabilidade em ambientes reais.
 
 Tenho cerca de 4 anos de experiência na área de tecnologia, com foco na criação de soluções práticas e eficientes. Possuo versatilidade para trabalhar com diferentes linguagens e tecnologias, adaptando-me conforme a necessidade de cada projeto, atuando tanto no backend quanto no frontend.
 
